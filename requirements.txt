@@ -1,4 +1,3 @@
 gunicorn
 requests
-telebot
-pyTelegramBotAPI
+flask
